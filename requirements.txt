@@ -1,6 +1,6 @@
 numpy  
 pandas  
-scikit-learn  
+scikit-learn==1.2.2  
 nltk  
 tensorflow  
 torch  
@@ -14,5 +14,5 @@ fastapi
 uvicorn  
 email-validator  
 beautifulsoup4  
-imbalanced-learn==0.11.0  
+imbalanced-learn==0.10.1  
 joblib  
