@@ -16,4 +16,4 @@ email-validator
 beautifulsoup4  
 imbalanced-learn==0.10.1  
 joblib  
-scipy
+scipy  
